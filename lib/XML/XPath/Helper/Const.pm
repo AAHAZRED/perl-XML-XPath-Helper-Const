@@ -148,10 +148,6 @@ You can also look for information at:
 
 L<https://rt.cpan.org/NoAuth/Bugs.html?Dist=XML-XPath-Helper-Const>
 
-=item * CPAN Ratings
-
-L<https://cpanratings.perl.org/d/XML-XPath-Helper-Const>
-
 =item * Search CPAN
 
 L<https://metacpan.org/release/XML-XPath-Helper-Const>
